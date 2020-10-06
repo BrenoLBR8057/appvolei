@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="main_titulo">Marcador de Placar</string>
+    <string name="main_time1">Informe o nome do time 1</string>
+    <string name="main_time2">informe o nome do time 2</string>
+    <string name="main_btn_iniciar">Iniciar partida</string>
+    <string name="main_button2">Terminar Partida</string>
+</resources>

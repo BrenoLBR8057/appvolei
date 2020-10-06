@@ -1,0 +1,6 @@
+include ':app:myapplication'
+include ':app:appvolei'
+include ':app:imc'
+include ':app:myfirstapp'
+rootProject.name='Cartão Empresarial'
+include ':app'

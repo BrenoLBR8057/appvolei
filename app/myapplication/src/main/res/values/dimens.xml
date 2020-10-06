@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="borda">2dp</dimen>
+    <dimen name="fundo_padding">10dp</dimen>
+    <dimen name="titulo_app">24sp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="input">16sp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="canto_botao">5dp</dimen>
+</resources>
